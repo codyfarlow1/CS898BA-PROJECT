@@ -60,7 +60,7 @@ All presentations should be recorded in PowerPoint or your preferred software wi
 
 ## Git Instructions
 ### 1. Repository Creation:
-* Create a git repository for a Python codebase using OpenCV named `FirstnameLastname-CS898BA-Project`.
+* Create a git repository for a Python codebase named `FirstnameLastname-CS898BA-Project`.
 ### 2. Initial Commit:
 * Create an initial commit with a “Hello World!” Script.
 ### 3. AI Accountability:
